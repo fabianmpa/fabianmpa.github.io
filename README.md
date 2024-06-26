@@ -1,1 +1,6 @@
-# fabianmpa.github.io
+---
+layout: "post"
+title: "New Title"
+---
+
+Some content
